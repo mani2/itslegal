@@ -1,3 +1,3 @@
 <?php
-echo "testing-1-sdfjsdlkfjs"
+echo "testing-1"
 ?>
